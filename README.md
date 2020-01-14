@@ -4,4 +4,6 @@ It was created using java and the java.swing GUI interface.
 
 The project can be run on any java IDE.
 
-If you want to see how the applictaion looks like and works, here is a video:
+If you want to see how the applictaion looks like and works, here is a GIF:
+
+![](Appdemo.gif)
